@@ -1,0 +1,10 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://zoologicalwildlifefoundation.github.io
+title: Zoological Wildlife Foundation
+email: 
+author: Zoological Wildlife Foundation
+description: My awesome new site
+paginate: 3
+google_analytics: 
